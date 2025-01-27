@@ -1,0 +1,9 @@
+{
+  "full_name": "Ine Arts",
+  "email_address": "ine.arts@uantwerpen.be",
+  "github_username": "IneMEGAmaxi",
+  "project_name": "ppr_examples",
+  "package_name": "ppr_examples",
+  "project_short_description": "example_project",
+  "minimal_python_version": "3.13"
+}
